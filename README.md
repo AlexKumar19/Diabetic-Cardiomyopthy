@@ -1,5 +1,4 @@
 # Diabetic-Cardiomyopthy
 
 Research Project on Diabetic Cardiomyopthy
-
-Alex Kumar and Vishnu Aravind
+- Creating Machine learning model in order to identify potential FDA-Approved inhibitors of PARP-1
